@@ -6,7 +6,7 @@
 
 ## 📸 Demonstração do Sistema
 
-![Demonstração da Clínica Aurora](https://naoki.free.nf/clinica-aurora)
+💻 **Acesse o projeto ao vivo:** [https://naoki.free.nf/clinica-aurora](https://naoki.free.nf/clinica-aurora)
 *Interface responsiva e painel de controle do sistema.*
 
 ---
